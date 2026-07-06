@@ -1,16 +1,58 @@
-## Hi there 👋
+# Olá! Eu sou Ryan Aguiar 👋
 
-<!--
-**RyanAFernandes/RyanAFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Técnico de TI e Desenvolvedor Python Júnior focado em desenvolvimento backend.
 
-Here are some ideas to get you started:
+Atualmente construindo aplicações web com Python, estudando Flask, PostgreSQL e evoluindo para Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Stack Principal
+
+- Python
+
+## 🌱 Atualmente aprendendo
+
+- HTML e CSS
+- SQL e SQLite
+- Flask
+- PostgreSQL
+- Django
+
+---
+
+## 🚀 Projetos
+
+📦 **Inventory Manager**
+> Sistema de gerenciamento de estoque em Python.
+
+🌐 **Landing Page**
+> Página responsiva utilizando HTML e CSS.
+
+✅ **Task Manager**
+> Aplicação web em Flask para gerenciamento de tarefas.
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como Desenvolvedor Backend Python, evoluindo continuamente através de projetos práticos e estudos.
+
+---
+
+## 📈 Minha Jornada
+
+- ✅ Python
+- ✅ Programação Orientada a Objetos
+- 🔄 HTML e CSS
+- ⏳ SQL e SQLite
+- ⏳ Flask
+- ⏳ PostgreSQL
+- ⏳ Django
+
+---
+
+## 📫 Contato
+
+📧 **Email:** Ryan.agfer@outlook.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/ryan-fernandes-7166533ab/
