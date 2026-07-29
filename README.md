@@ -1,18 +1,20 @@
 # Olá! Eu sou Ryan Aguiar 👋
 
-💻 Técnico de TI e Desenvolvedor Python Júnior focado em desenvolvimento backend.
+💻 Técnico de TI e Desenvolvedor Python Júnior focado em desenvolvimento backend e reparos de PCs.
 
-Atualmente construindo aplicações web com Python, estudando Flask, PostgreSQL e evoluindo para Django.
+Atualmente estudando Banco de dados com SQL e SQLite
 
 ---
 
 ## 💼 Stack Principal
 
-- Python
 - Reparo e diagnostico de PC
+- Python
+- Linux básico
 
 ## 🌱 Atualmente aprendendo
 
+- AWS
 - HTML e CSS
 - SQL e SQLite
 - Flask
