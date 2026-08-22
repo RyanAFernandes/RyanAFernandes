@@ -1,50 +1,33 @@
-# Olá! Eu sou Ryan Aguiar 👋
+# Hello, I am Ryan 👋
 
-💻 Técnico de TI e Desenvolvedor Python Júnior focado em desenvolvimento backend e reparos de PCs.
+💻 IT Technician in training, currently studying Python and technologies related to AI Engineering.
 
-Atualmente estudando Banco de dados com SQL e SQLite
-
----
-
-## 💼 Stack Principal
-
-- Reparo e diagnostico de PC
-- Python
-- Linux básico
-
-## 🌱 Atualmente aprendendo
-
-- AWS
-- HTML e CSS
-- SQL e SQLite
-- Flask
-- PostgreSQL
-- Django
+Currently studying **SQLite** and **AWS**.
 
 ---
 
-## 🎯 Objetivo
+## 💼 Main Stack
 
-Busco minha primeira oportunidade como Técnico de informática (TI), evoluindo continuamente através de projetos práticos e estudos.
-
----
-
-## 📈 Minha Jornada
-
-- ✅ Hardware
-- ✅ Linux
-- ✅ Python
-- 🔄 SQL e SQLite
-- 🔄 AWS
-- ⏳ HTML e CSS
-- ⏳ Flask
-- ⏳ PostgreSQL
-- ⏳ Django
+* Computer repair and diagnostics
+* Python
+* Linux basics
 
 ---
 
-## 📫 Contato
+## 📈 My Journey
 
-📧 **Email:** Ryan.agfer@outlook.com
+* ✅ Hardware
+* ✅ Linux
+* ✅ Python
+* 🔄 SQLite
+* 🔄 AWS
+* ⏳ HTML and CSS
+* ⏳ Flask
+* ⏳ PostgreSQL
+* ⏳ Django
+
+---
+
+## 📫 Contact
 
 💼 **LinkedIn:** https://www.linkedin.com/in/ryan-fernandes-7166533ab/
