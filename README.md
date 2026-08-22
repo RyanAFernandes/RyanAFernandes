@@ -21,6 +21,7 @@ Currently studying **SQLite** and **AWS**.
 * ✅ Python
 * 🔄 SQLite
 * 🔄 AWS
+* ⏳ AI Basics
 * ⏳ HTML and CSS
 * ⏳ Flask
 * ⏳ PostgreSQL
