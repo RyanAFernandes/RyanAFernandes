@@ -31,4 +31,4 @@ Currently studying **SQLite** and **AWS**.
 
 ## 📫 Contact
 
-💼 **LinkedIn:** https://www.linkedin.com/in/ryan-fernandes-7166533ab/
+💼 **LinkedIn:** www.linkedin.com/in/ryan-aguiar-fernandes
