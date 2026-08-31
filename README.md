@@ -2,15 +2,14 @@
 
 💻 IT Technician in training, currently studying Python and technologies related to AI Engineering.
 
-Currently studying **SQLite** and **AWS**.
+Currently studying **SQLite** and "*AWS**.
 
 ---
 
 ## 💼 Main Stack
 
 * Computer repair and diagnostics
-* Python
-* Linux basics
+* Python Junior - in process
 
 ---
 
@@ -32,3 +31,7 @@ Currently studying **SQLite** and **AWS**.
 ## 📫 Contact
 
 💼 **LinkedIn:** www.linkedin.com/in/ryan-aguiar-fernandes
+
+## 🛠️ Projects
+
+Some of my projects are right below.
