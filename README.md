@@ -2,7 +2,7 @@
 
 💻 IT Technician in training, currently studying Python and technologies related to AI Engineering.
 
-Currently studying **SQLite** and "*AWS**.
+Currently studying **SQLite** and **AWS**.
 
 ---
 
