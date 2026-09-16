@@ -16,7 +16,6 @@ You notice that my English isn't very good? Thats because I'm currently at an ea
 <img align="left" alt="AWS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Flask" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="padding-right:10px;" />
 
 <br clear="left"/>
@@ -26,6 +25,7 @@ You notice that my English isn't very good? Thats because I'm currently at an ea
 🧱 Foundations
 * Python ✅
 * Git + Github ✅
+* Linux ✅
 
 🔧 Building my stack
 * AWS 🔁
@@ -34,5 +34,4 @@ You notice that my English isn't very good? Thats because I'm currently at an ea
 * CSS ❌
 
 🌐 Web development
-* Flask ❌
 * Django ❌
