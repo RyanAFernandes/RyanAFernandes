@@ -1,4 +1,4 @@
-<img width="1600" height="400" alt="Untitled image" src="https://github.com/user-attachments/assets/a276f607-2ef3-4b1c-a45b-997508899ff9" />
+<img width="1600" height="400" alt="Untitled image" src="https://github.com/user-attachments/assets/c461cbdf-b489-4293-8801-28fe5ae79f1e" />
 
 # Welcome to my profile!
 
