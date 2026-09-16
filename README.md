@@ -1,10 +1,12 @@
-# Welcome to **Ryan Aguiar** profile!
+<img width="1600" height="400" alt="Untitled image" src="https://github.com/user-attachments/assets/a276f607-2ef3-4b1c-a45b-997508899ff9" />
 
-💻 IT Technician in training, currently studying Python and technologies related to Software Engineering.
+# Welcome to my profile!
 
-Currently studying **SQLite** and **AWS**.
+## ⏩️ Quick introduction
 
----
+Hello, my name is Ryan Aguiar, and I am a technology enthusiast. One of my dreams is to become a good software developer capable of creating things, expressing my imagination, and helping people achieve their goals. Currently, I am studying **SQLite** and **AWS**.
+
+You notice that my English isn't very good? Thats because I'm currently at an early B2 level. But I'm doing my best to improve!
 
 ## 🧰 Tools
 
@@ -19,20 +21,18 @@ Currently studying **SQLite** and **AWS**.
 
 <br clear="left"/>
 
-## 📈 My Journey
- 
-* ✅ Linux
-* ✅ Python
-* ⏳ SQLite
-* ⏳ AWS
-* ⏳ HTML and CSS
-* ⏳ Flask
-* ⏳ Django
+## 📈 My roadmap
 
----
+🧱 Foundations
+* Python ✅
+* Git + Github ✅
 
-## 🛠️ Projects
+🔧 Building my stack
+* AWS 🔁
+* SQLite 🔁
+* HTML ❌
+* CSS ❌
 
-Some of my projects are right below.
-
-UPDATES_COMING_SOON
+🌐 Web development
+* Flask ❌
+* Django ❌
