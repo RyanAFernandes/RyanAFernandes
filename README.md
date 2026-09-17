@@ -30,6 +30,7 @@ You notice that my English isn't very good? Thats because I'm currently at an ea
 🔧 Building my stack
 * AWS 🔁
 * SQLite 🔁
+* C++ 🔁
 * HTML ❌
 * CSS ❌
 
