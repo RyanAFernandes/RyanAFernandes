@@ -4,7 +4,7 @@
 
 ## ⏩️ Quick introduction
 
-Hello, my name is Ryan Aguiar, and I am a technology enthusiast. One of my dreams is to become a good software developer capable of creating things, expressing my imagination, and helping people achieve their goals. Currently, I am studying **SQLite** and **AWS**.
+Hello, my name is Ryan Aguiar, and I am a technology enthusiast. One of my dreams is to become a good software developer capable of creating things, expressing my imagination, and helping people achieve their goals. Currently, I am studying **SQLite**
 
 You notice that my English isn't very good? Thats because I'm currently at an early B2 level. But I'm doing my best to improve!
 
@@ -28,11 +28,12 @@ You notice that my English isn't very good? Thats because I'm currently at an ea
 * Linux ✅
 
 🔧 Building my stack
-* AWS 🔁
+* AWS ✅
 * SQLite 🔁
 * C++ ❌️
 * HTML ❌
 * CSS ❌
 
 🌐 Web development
+* Flask
 * Django ❌
