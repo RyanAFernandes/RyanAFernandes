@@ -1,10 +1,8 @@
 <img width="1600" height="400" alt="Untitled image" src="https://github.com/user-attachments/assets/6f079700-f5ae-4b89-ab08-6becdff5cb70" />
 
-# Welcome to my profile!
-
 ## Quick introduction
 
-Hello! My name is Ryan Aguiar, and I am a technology enthusiast. One of my dreams is to become a skilled software developer capable of building great things, expressing my imagination, and helping people achieve their goals. Currently, I am studying **SQLite**.
+Sup! My name is Ryan Aguiar, and I am a technology enthusiast. One of my dreams is to become a skilled software developer capable of building great things, expressing my imagination, and helping people achieve their goals. Currently, I am studying **SQLite**.
 
 Did you notice that my English isn't perfect yet? That's because I'm currently at an early B2 level, but I'm doing my best to improve every day!
 
@@ -49,7 +47,7 @@ Did you notice that my English isn't perfect yet? That's because I'm currently a
 - CSS ❌
 - JavaScript ❌
 
-⚙️ **Apps & Linux Extensions (Dynamic Island Project)**
+⚙️ **Apps & Linux Extensions**
 - Gnome JavaScript ❌
 - Shell Toolkit (St) & Clutter ❌
 - C# ❌
@@ -58,7 +56,7 @@ Did you notice that my English isn't perfect yet? That's because I'm currently a
 - Flask ❌
 - Django ❌
 
-💻️ **Hardware** *(Progress in school...)*
+💻️ **Hardware** *(Progress in technical school...)*
 - C++ ❌
 - Vulkan ❌
 - CUDA ❌
