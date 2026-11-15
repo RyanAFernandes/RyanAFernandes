@@ -4,7 +4,7 @@
 
 Sup! My name is Ryan Aguiar, and I am a technology enthusiast. One of my dreams is to become a skilled software developer capable of building great things, expressing my imagination, and helping people achieve their goals. Currently, I am studying **SQLite**.
 
-Did you notice that my English isn't perfect yet? That's because I'm currently at an early B2 level, but I'm doing my best to improve every day!
+Im currently B2 at english, but studying and improving every day
 
 ## Tools
 
